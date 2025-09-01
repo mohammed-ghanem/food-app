@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "food app",
+  title: "food application",
   description: "food app development mode",
 };
 
